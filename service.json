@@ -1,0 +1,11 @@
+{
+    "uuid":"0c9c49e5-1cb7-400c-8e98-0c84ed1b6e4c",
+    "name":"filetest",
+    "token":"0c9c49e5",
+    "description":"filetest",
+    "target_interface":"http://ws.msb.dia.cell.vfk.fraunhofer.de",
+    "file_splitting_length":500000,
+    "file_timelimit":20000,
+    "files_sourcepath":"ein",
+    "files_targetpath":"aus"
+}
